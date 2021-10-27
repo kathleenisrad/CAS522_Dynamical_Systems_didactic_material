@@ -6,8 +6,7 @@ Come back at the end of each module, for sample solutions to the coding problems
 
 Module 2 | Random Networks
 Required Packages: Numpy, Random, PyVis 
-Goals: In this module you will learn how to generate and visualize random networks. You will also learn how to extract information from an 
-adjacency matrix, and calculate the clustering coefficient of a random network.
+Goals: In this module you will learn how to generate and visualize random networks. You will also learn how to extract information from an adjacency matrix, and calculate the clustering coefficient of a random network.
 
 Module 3 | Systems of ODEs with ScyPy
 Required Packages: NumPy, SciPy, Matplotlib
