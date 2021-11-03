@@ -11,3 +11,7 @@ Goals: In this module you will learn how to generate and visualize random networ
 Module 3 | Systems of ODEs with ScyPy
 Required Packages: NumPy, SciPy, Matplotlib
 Goals: In this module you will learn how to use ScyPy to numerically solve systems of normal and ordinary differential equations.
+
+Module 4 | Difference Equations & Iteration
+Required Packages: Matplotlib
+Goals: In this module you will learn how to generate time series iteratively, and how to visualize them using Matplotlib.
