@@ -15,3 +15,7 @@ Goals: In this module you will learn how to use ScyPy to numerically solve syste
 Module 4 | Difference Equations & Iteration
 Required Packages: Matplotlib
 Goals: In this module you will learn how to generate time series iteratively, and how to visualize them using Matplotlib.
+
+Module 5 | Linear Systems of Equations and Absorbing Markov Chains
+Required Packages: Numpy, PyVis, SymPy
+Goals: Solve linear systems of equations symbolically, and use this technique to solve absorbing Markov Chains. 
