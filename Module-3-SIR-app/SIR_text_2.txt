@@ -1,3 +1,0 @@
-The model assumes a one-way dynamics with no feedback. Over time the entire population becomes infected, and eventually recovers. 
-
-These assumptions translate into this system of ordinary differential equations:
