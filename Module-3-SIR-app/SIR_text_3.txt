@@ -1,0 +1,3 @@
+That we want to solve for given initial values of the three variables, $S(0)$, $I(0)$, and $R(0)$.
+
+This app solves this system of equations using the **integrate** module from the **SciPy** python library.
