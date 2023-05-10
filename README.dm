@@ -1,3 +1,5 @@
+# Dynamical Systems: Didactic Material
+
 Instructor: Enrico Borriello, PhD (School of Complex Adaprive systems, ASU) 
 Class: CAS 522 Dynamical Systems (Fall B 2021)
 
